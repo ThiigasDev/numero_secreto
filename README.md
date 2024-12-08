@@ -1,4 +1,6 @@
 Jogo do número secreto
+
+
 🖋️ Sobre
 Projeto desenvolvido nos cursos de lógica de programação da Alura.
 
